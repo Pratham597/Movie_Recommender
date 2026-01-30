@@ -53,4 +53,4 @@ movie-recommender/
 ```
 ---
 ## Author
-- @Pratham597
+- [@Pratham](https://github.com/Pratham597)
