@@ -78,7 +78,7 @@ You selected: <b>{option}</b>
 
 col1, col2, col3 = st.columns([3,1,3])
 with col2:
-    recommend_clicked = st.button("Recommend")
+    recommend_clicked = st.button("Recommend",use_container_width=True)
 
 if recommend_clicked:
     st.markdown("---")
